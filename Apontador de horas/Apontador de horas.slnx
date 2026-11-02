@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../TestApontadorDeHoras/TestApontadorDeHoras.csproj" />
+  <Project Path="Apontador de horas.csproj" />
+</Solution>

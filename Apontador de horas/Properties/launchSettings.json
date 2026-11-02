@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Apontador de horas": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\frozen\\Desktop\\horas\\horas.csv\""
+    }
+  }
+}
